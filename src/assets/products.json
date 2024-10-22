@@ -1,0 +1,179 @@
+[
+  {
+    "name": "Apple iPhone 13",
+    "price": 799.99,
+    "category": "Electronics",
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone13-purple-select-2021?wid=940&hei=1112&fmt=png-alpha&.v=1629840713000"
+  },
+  {
+    "name": "Samsung 4K Smart TV",
+    "price": 1299.99,
+    "category": "Electronics",
+    "image": "https://image-us.samsung.com/SamsungUS/home appliances/2021/neo-qled-4k-qn90a/neo-qled-4k-qn90a-001-1600x1200.jpg"
+  },
+  {
+    "name": "Nike Air Max 270",
+    "price": 129.99,
+    "category": "Fashion",
+    "image": "https://static.nike.com/a/images/t_default/3f0a2a9f-8a3b-4f3f-8d7b-1e1d6c0e5a4f/air-max-270-womens-shoe-4WfGZL.png"
+  },
+  {
+    "name": "PlayStation 5 Console",
+    "price": 499.99,
+    "category": "Electronics",
+    "image": "https://www.playstation.com/en-us/assets/images/playstation5-console-01.png"
+  },
+  {
+    "name": "Canon EOS Rebel T8i",
+    "price": 749.99,
+    "category": "Cameras and Photography",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9802/6937/products/Canon-EOS-Rebel-T8i-Digital-SLR-Camera-Body-Only-Black_300x300.jpg?v=1614444691"
+  },
+  {
+    "name": "Dell XPS 13 Laptop",
+    "price": 999.99,
+    "category": "Electronics",
+    "image": "https://i.dell.com/sites/csimages/Shared-Accounts/cs30634633_300x300.jpg"
+  },
+  {
+    "name": "GoPro Hero9 Black",
+    "price": 399.99,
+    "category": "Cameras and Photography",
+    "image": "https://gopro.com/static-assets/hero9-black/hero9-black-001.png"
+  },
+  {
+    "name": "Sony WH-1000XM4 Headphones",
+    "price": 349.99,
+    "category": "Electronics",
+    "image": "https://www.sony.com/electronics/headband-headphones/wh-1000xm4/images/hero.png"
+  },
+  {
+    "name": "Fujifilm X-T4 Mirrorless Camera",
+    "price": 1699.99,
+    "category": "Cameras and Photography",
+    "image": "https://fujifilm-x.com/en-us/products/cameras/x-t4/images/x-t4_01.png"
+  },
+  {
+    "name": "KitchenAid Stand Mixer",
+    "price": 299.99,
+    "category": "Home and Kitchen",
+    "image": "https://www.kitchenaid.com/-/media/kitchenaid/images/products/stand-mixers/kitchenaid-stand-mixer-ksm150ps-001.png"
+  },
+  {
+    "name": "Nike Air Force 1",
+    " price": 89.99,
+    "category": "Fashion",
+    "image": "https://static.nike.com/a/images/t_default/3f0a2a9f-8a3b-4f3f-8d7b-1e1d6c0e5a4f/air-force-1-mens-shoe-4WfGZL.png"
+  },
+  {
+    "name": "Canon EOS R6 Mirrorless Camera",
+    "price": 2499.99,
+    "category": "Cameras and Photography",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9802/6937/products/Canon-EOS-R6-Mirrorless-Camera-Body-Only-Black_300x300.jpg?v=1614444691"
+  },
+  {
+    "name": "Sony A7R IV Mirrorless Camera",
+    "price": 3499.99,
+    "category": "Cameras and Photography",
+    "image": "https://www.sony.com/electronics/interchangeable-lens-cameras/ilce-7rm4/images/hero.png"
+  },
+  {
+    "name": "DJI Mavic Air 2 Drone",
+    "price": 799.99,
+    "category": "Electronics",
+    "image": "https://store.dji.com/product/mavic-air-2/images/mavic-air-2-01.png"
+  },
+  {
+    "name": "Nike Vaporfly Next%",
+    "price": 250.0,
+    "category": "Sports and Outdoors",
+    "image": "https://static.nike.com/a/images/t_default/3f0a2a9f-8a3b-4f3f-8d7b-1e1d6c0e5a4f/vaporfly-next-mens-running-shoe-4WfGZL.png"
+  },
+  {
+    "name": "Samsung Galaxy S22 Ultra",
+    "price": 899.99,
+    "category": "Electronics",
+    "image": "https://image-us.samsung.com/SamsungUS/home/galaxy-s22-ultra/001-1600x1200.jpg"
+  },
+  {
+    "name": "Canon EOS 5D Mark IV",
+    "price": 2999.99,
+    "category": "Cameras and Photography",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9802/6937/products/Canon-EOS-5D-Mark-IV-Digital-SLR-Camera-Body-Only-Black_300x300.jpg?v=1614444691"
+  },
+  {
+    "name": "Sony Alpha a6400 Mirrorless Camera",
+    "price": 998.0,
+    "category": "Cameras and Photography",
+    "image": "https://www.sony.com/electronics/interchangeable-lens-cameras/ilce-6400/images/hero.png"
+  },
+  {
+    "name": "Fujifilm GFX 50R Mirrorless Camera",
+    "price": 4499.99,
+    "category": "Cameras and Photography",
+    "image": "https://fujifilm-x.com/en-us/products/cameras/gfx-50r/images/gfx-50r_01.png"
+  },
+  {
+    "name": "KitchenAid Blender",
+    "price": 199.99,
+    "category": "Home and Kitchen",
+    "image": "https://www.kitchenaid.com/-/media/kitchenaid/images/products/blenders/kitchenaid-blender-kbl820-001.png"
+  },
+  {
+    "name": "Nike Air Zoom Pegasus 38",
+    "price": 129.99,
+    "category": "Sports and Outdoors",
+    "image": "https://static.nike.com/a/images/t_default/3f0a2a9f-8a3b-4f3f-8d7b-1e1d6c0e5a4f/air-zoom-pegasus-38-mens-running-shoe-4WfGZL.png"
+  },
+  {
+    "name": "Canon EOS Rebel SL3",
+    "price": 499.99,
+    "category": "Cameras and Photography",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9802/6937/products/Canon-EOS-Rebel-SL3-Digital-SLR-Camera-Body-Only-Black_300x300.jpg?v=1614444691"
+  },
+  {
+    "name": "Apple iPhone 13",
+    "price": 799.99,
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone13-purple-select-2021?wid=940&hei=1112&fmt=png-alpha&.v=1629840713000"
+  },
+  {
+    "name": "Samsung 4K Smart TV",
+    "price": 1299.99,
+    "image": "https://image-us.samsung.com/SamsungUS/home appliances/2021/neo-qled-4k-qn90a/neo-qled-4k-qn90a-001-1600x1200.jpg"
+  },
+  {
+    "name": "Nike Air Max 270",
+    "price": 129.99,
+    "image": "https://static.nike.com/a/images/t_default/3f0a2a9f-8a3b-4f3f-8d7b-1e1d6c0e5a4f/air-max-270-womens-shoe-4WfGZL.png"
+  },
+  {
+    "name": "PlayStation 5 Console",
+    "price": 499.99,
+    "image": "https://www.playstation.com/en-us/assets/images/playstation5-console-01.png"
+  },
+  {
+    "name": "Canon EOS Rebel T8i",
+    "price": 749.99,
+    "image": "https://cdn.shopify.com/s/files/1/0024/9802/6937/products/Canon-EOS-Rebel-T8i-Digital-SLR-Camera-Body-Only-Black_300x300.jpg?v=1614444691"
+  },
+  {
+    "name": "Dell XPS 13 Laptop",
+    "price": 999.99,
+    "image": "https://i.dell.com/sites/csimages/Shared-Accounts/cs30634633_300x300.jpg"
+  },
+  {
+    "name": "GoPro Hero9 Black",
+    "price": 399.99,
+    "image": "https://gopro.com/static-assets/hero9-black/hero9-black-001.png"
+  },
+  {
+    "name": "Sony WH-1000XM4 Headphones",
+    "price": 349.99,
+    "image": "https://www.sony.com/electronics/headband-headphones/wh-1000xm4/images/hero.png"
+  },
+  {
+    "name": "Fujifilm X-T4 Mirrorless Camera",
+    "price": 1699.99,
+    "image": "https://fujifilm-x.com/en-us/products/cameras/x-t4/images/x-t4_01.png"
+  }
+]
